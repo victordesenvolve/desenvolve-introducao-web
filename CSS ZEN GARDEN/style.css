@@ -1,0 +1,14 @@
+
+
+/* Color Theme Swatches in RGBA 
+.My-Color-Theme-1-rgba { color: rgba(250, 60, 0, 1); }
+.My-Color-Theme-2-rgba { color: rgba(250, 153, 15, 1); }
+.My-Color-Theme-3-rgba { color: rgba(250, 104, 0, 1); }
+.My-Color-Theme-4-rgba { color: rgba(250, 91, 80, 1); }
+.My-Color-Theme-5-rgba { color: rgba(250, 185, 25, 1); }
+.My-Color-Theme-6-rgba { color: rgba(250, 169, 112, 1); }
+*/
+ html {background:#FAB919;
+    color:#FA6800;
+ }
+
